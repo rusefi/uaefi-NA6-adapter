@@ -1,0 +1,12 @@
+name: Update kicad6-library Reference
+
+on:
+  schedule:
+    - cron: '4 15 * * *' # update reference daily at 4:15 pm
+  workflow_dispatch:
+
+jobs:
+  call-workflow-passing-data:
+    uses: rusefi/kicad6-libraries/.github/workflows/custom-board-update-kicad6-library-reference.yaml@main
+    permissions:
+      contents: write
