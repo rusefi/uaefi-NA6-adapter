@@ -4107,6 +4107,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid baaf4fe1-9315-4bfe-8239-411effebce5e)
   )
+  (label "12V_FROM_MAIN_RELAY" (at 466.09 106.68 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bc4fee59-a045-4deb-bce4-4b00d9f961b9)
+  )
   (label "OUT_RADIATOR_FAN_RELAY" (at 190.5 180.34 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bf117ed3-7caa-4367-85b2-55cc33a49021)
@@ -6306,6 +6310,41 @@
       (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G11") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+5VP") (at 474.98 101.6 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 7d98a869-9c46-48ce-aaf5-ff4d3316a698)
+    (property "Reference" "#PWR032" (at 478.79 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5VP" (at 471.17 101.6 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 474.98 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 474.98 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 19f45094-ef04-4f3c-bc72-5f7e4d32f62f))
+    (instances
+      (project "uaefi-adapter-NA-90-95"
+        (path "/62be380c-4f45-483a-9614-39f0039d587a"
+          (reference "#PWR032") (unit 1)
+        )
+      )
+      (project "uaefi-Honda-OBD1-adapter"
+        (path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
+          (reference "#PWR037") (unit 1)
+        )
+      )
+      (project "uaefi-adapter-e36"
+        (path "/b36a220d-d25c-4142-873c-bb8e1b6826c8"
+          (reference "#PWR015") (unit 1)
         )
       )
     )
