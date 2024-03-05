@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "hellen-one-common")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/kicad/footprints")(options "")(descr ""))
 )
