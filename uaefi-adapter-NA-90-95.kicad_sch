@@ -4265,7 +4265,7 @@
     )
     (pin "1" (uuid 80c5c1f3-5ef3-4b86-887c-973bd8464656))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P8") (unit 1)
         )
@@ -4281,7 +4281,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 180.34 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04517917-892a-4093-bf5b-a6cabda1f922)
-    (property "Reference" "R13" (at 117.1439 179.3685 0)
+    (property "Reference" "R20" (at 117.1439 179.3685 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 182.118 0)
@@ -4299,9 +4299,9 @@
     (pin "1" (uuid 03e362bf-5163-44d6-b124-bcc63987c019))
     (pin "2" (uuid 38a185ec-764d-445e-9351-43b2d16ecd9c))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R13") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4315,7 +4315,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 193.04 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0624f3ae-da1f-4bec-b1df-eb01a3e97502)
-    (property "Reference" "R16" (at 116.9667 192.0493 0)
+    (property "Reference" "R7" (at 116.9667 192.0493 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 194.818 0)
@@ -4333,9 +4333,9 @@
     (pin "1" (uuid ed37f249-3861-4385-9662-655eeeac8f90))
     (pin "2" (uuid d8429d23-f8ef-41e0-ae7e-df836d1d5dc9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R16") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4363,7 +4363,7 @@
     )
     (pin "1" (uuid b4fc8338-3a51-4660-85f5-25d50ea538c2))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR019") (unit 1)
         )
@@ -4398,7 +4398,7 @@
     )
     (pin "1" (uuid 7172d257-a7af-4fc2-83e5-4d151e99e4e2))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR031") (unit 1)
         )
@@ -4433,7 +4433,7 @@
     )
     (pin "1" (uuid cb86bb98-69df-4ba1-bb91-5a760dfaa999))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P10") (unit 1)
         )
@@ -4473,7 +4473,7 @@
           (reference "D55") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "D2") (unit 1)
         )
@@ -4511,7 +4511,7 @@
     )
     (pin "1" (uuid 6291da0e-b71b-4f20-9f70-55f2034990e9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR06") (unit 1)
         )
@@ -4546,7 +4546,7 @@
     )
     (pin "1" (uuid 11dbf6ef-855d-438e-9dc2-93d89a1a7141))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR022") (unit 1)
         )
@@ -4581,7 +4581,7 @@
     )
     (pin "1" (uuid 33eea6b7-66c0-4fc5-a1fc-26fe50a142d9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_C12") (unit 1)
         )
@@ -4611,7 +4611,7 @@
     )
     (pin "1" (uuid 5c71653d-68e8-47cd-9945-1c66d52f0f86))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_C20") (unit 1)
         )
@@ -4627,7 +4627,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 149.86 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1576719e-2ffc-4dcd-b566-947f15fc4e85)
-    (property "Reference" "R29" (at 145.0839 123.4885 0)
+    (property "Reference" "R46" (at 145.0839 123.4885 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 149.86 126.238 0)
@@ -4645,9 +4645,9 @@
     (pin "1" (uuid d48968bc-176f-4006-8b20-9f33964dc37d))
     (pin "2" (uuid f7b80d45-dcaa-4bd4-b77b-a40833a8b244))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R29") (unit 1)
+          (reference "R46") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4675,7 +4675,7 @@
     )
     (pin "1" (uuid d5380c88-8a67-4bb3-a92f-15e936ad0c92))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR03") (unit 1)
         )
@@ -4710,7 +4710,7 @@
     )
     (pin "1" (uuid 7a09fb5a-f96a-47c8-9cb2-2684f528beb8))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR014") (unit 1)
         )
@@ -4731,7 +4731,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 190.5 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 18162c5f-594b-4ae5-ac97-c36390455591)
-    (property "Reference" "R15" (at 116.9667 189.5093 0)
+    (property "Reference" "R18" (at 116.9667 189.5093 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 192.278 0)
@@ -4749,9 +4749,9 @@
     (pin "1" (uuid 804e61fa-b378-4c0b-aa34-0a92e007fcec))
     (pin "2" (uuid 69ccc4b3-0fe6-40cb-8114-f06a210953b6))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R15") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4788,7 +4788,7 @@
           (reference "R47") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "R25") (unit 1)
         )
@@ -4826,7 +4826,7 @@
     )
     (pin "1" (uuid 792535a4-cfa2-451e-9bcf-1e4a9e75b3fd))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_C11") (unit 1)
         )
@@ -4842,7 +4842,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 208.28 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b83e4d8-0dbf-4dbb-8ee9-788bba257de7)
-    (property "Reference" "R21" (at 116.9667 207.2893 0)
+    (property "Reference" "R4" (at 116.9667 207.2893 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 210.058 0)
@@ -4860,9 +4860,9 @@
     (pin "1" (uuid 0181958a-4056-4902-b665-0540e3258ee8))
     (pin "2" (uuid 1f320f7d-cb90-4618-8e05-bdc5f516c52f))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R21") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4876,7 +4876,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 210.82 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c702492-80fe-48e6-b52d-56c9d0bbf792)
-    (property "Reference" "R22" (at 116.9667 209.8293 0)
+    (property "Reference" "R14" (at 116.9667 209.8293 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 212.598 0)
@@ -4894,9 +4894,9 @@
     (pin "1" (uuid 1c90f2a2-f6c8-4971-b190-571818265bad))
     (pin "2" (uuid 7974952f-eb43-4cb0-9792-31da593f79f5))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R22") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -4933,7 +4933,7 @@
     (pin "8" (uuid e936448e-065f-42ff-8d1a-86cff3f982c8))
     (pin "9" (uuid c539814c-3e5d-4989-8540-ed1d68d92e5a))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G1") (unit 1)
         )
@@ -4972,7 +4972,7 @@
           (reference "D56") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "D1") (unit 1)
         )
@@ -5010,7 +5010,7 @@
     )
     (pin "1" (uuid 59823ccf-341a-4d03-a564-01d3bf8b941a))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR011") (unit 1)
         )
@@ -5045,7 +5045,7 @@
     )
     (pin "1" (uuid 2dc65646-cc7c-41af-aba6-59b1d3105375))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR030") (unit 1)
         )
@@ -5089,7 +5089,7 @@
           (reference "R47") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "R18") (unit 1)
         )
@@ -5127,7 +5127,7 @@
     )
     (pin "1" (uuid 42db98ad-34e2-409d-81e2-bc8687398aaa))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR017") (unit 1)
         )
@@ -5162,7 +5162,7 @@
     )
     (pin "1" (uuid eb4117de-a45e-4017-9506-15ebd4695401))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR021") (unit 1)
         )
@@ -5202,7 +5202,7 @@
           (reference "#PWR039") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR028") (unit 1)
         )
@@ -5315,7 +5315,7 @@
     (pin "75" (uuid d30af338-9f80-4b2e-a272-1835f1667ba3))
     (pin "76" (uuid b22cb47d-0360-4882-9c78-840c4cdd1a41))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P1") (unit 3)
         )
@@ -5331,7 +5331,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 123.19 240.03 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37c6a7bf-5c6e-4cff-bdfd-e8af7aa30276)
-    (property "Reference" "R8" (at 118.4139 239.0585 0)
+    (property "Reference" "R75" (at 118.4139 239.0585 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 123.19 241.808 0)
@@ -5349,9 +5349,9 @@
     (pin "1" (uuid 871127b1-c3b1-4f10-93db-f4165f909ec1))
     (pin "2" (uuid 6d9faba2-6d34-4d0c-88e6-5fe4e22993e8))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R8") (unit 1)
+          (reference "R75") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5379,7 +5379,7 @@
     )
     (pin "1" (uuid bca34ba1-8439-4087-ab6c-2894e37a8f61))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P6") (unit 1)
         )
@@ -5414,7 +5414,7 @@
           (reference "#PWR070") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR016") (unit 1)
         )
@@ -5438,7 +5438,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 96.52 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ebf374a-4768-4841-ba63-a1f9a8a6215a)
-    (property "Reference" "R30" (at 116.8234 95.5646 0)
+    (property "Reference" "R64" (at 116.8234 95.5646 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 98.298 0)
@@ -5456,9 +5456,9 @@
     (pin "1" (uuid a16f1c3b-bd98-4690-8490-9d0b2a8d2599))
     (pin "2" (uuid 1761c19e-8a47-4f30-b5f1-d3b6cada8578))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R30") (unit 1)
+          (reference "R64") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5472,7 +5472,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 123.19 242.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ff0abe7-24f5-496c-b134-3d780c7e11d7)
-    (property "Reference" "R9" (at 118.11 241.3 0)
+    (property "Reference" "R69" (at 118.11 241.3 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 123.19 244.348 0)
@@ -5490,9 +5490,9 @@
     (pin "1" (uuid 5c3b5859-6578-4d8f-867a-d549fa07dc44))
     (pin "2" (uuid d51a343d-a9df-48d8-90bb-e0d8923efe4b))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R9") (unit 1)
+          (reference "R69") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5506,7 +5506,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 200.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 42ace0bc-685b-4967-a1ae-09ed5f0ea8d4)
-    (property "Reference" "R19" (at 116.9667 199.6693 0)
+    (property "Reference" "R16" (at 116.9667 199.6693 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 202.438 0)
@@ -5524,9 +5524,9 @@
     (pin "1" (uuid d7e3249e-1f2e-47e9-90ed-dd5b4c5fca02))
     (pin "2" (uuid b91f7536-8c9d-46bc-984d-1d73efb8e7b1))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R19") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5563,7 +5563,7 @@
     (pin "8" (uuid 4747fa68-5c1c-464e-9051-07f04cf1765a))
     (pin "9" (uuid 8bf28631-0bdc-4ba9-88ad-833873145201))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G7") (unit 1)
         )
@@ -5593,7 +5593,7 @@
     )
     (pin "1" (uuid af151d30-70dd-4c42-9ce9-4f75f491d3e0))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR018") (unit 1)
         )
@@ -5639,7 +5639,7 @@
     (pin "5" (uuid 2dc086c6-405c-459f-aa6f-4ae2d4a4c206))
     (pin "6" (uuid 6326ee20-0fcf-46de-97d3-973d2ee63734))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "J1") (unit 1)
         )
@@ -5674,7 +5674,7 @@
     )
     (pin "1" (uuid ae09b02d-1daa-4b42-8661-588d6264ba2b))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR02") (unit 1)
         )
@@ -5718,7 +5718,7 @@
     (pin "8" (uuid 13f067aa-8583-401e-92ce-c49ac570b0be))
     (pin "9" (uuid 412c0ae7-9f1f-421c-9ea4-43e69e59cee0))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G3") (unit 1)
         )
@@ -5734,7 +5734,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 205.74 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d2fdcfd-aff4-4866-9fbd-67627641b53c)
-    (property "Reference" "R20" (at 116.9667 204.7493 0)
+    (property "Reference" "R15" (at 116.9667 204.7493 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 207.518 0)
@@ -5752,9 +5752,9 @@
     (pin "1" (uuid 8118336f-5908-48ba-9f86-de8fc6e9753f))
     (pin "2" (uuid 4e37ce40-895c-43ba-ba60-65e9ad71b359))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R20") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5786,7 +5786,7 @@
     (pin "1" (uuid f047866d-9890-4663-a305-e87e3db302bb))
     (pin "2" (uuid 5f36b15f-739a-4af8-b845-f1c2947bdd81))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "R17") (unit 1)
         )
@@ -5816,7 +5816,7 @@
     )
     (pin "1" (uuid 2fa16db8-7a51-4d38-810f-88add58fe4ca))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR010") (unit 1)
         )
@@ -5851,7 +5851,7 @@
     )
     (pin "1" (uuid 016d0531-2932-49f0-ace7-5a23fd87e6fc))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR024") (unit 1)
         )
@@ -5872,7 +5872,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 111.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 518be479-2de6-411d-90e4-f2c000f5c568)
-    (property "Reference" "R1" (at 117.1439 110.7885 0)
+    (property "Reference" "R61" (at 117.1439 110.7885 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 113.538 0)
@@ -5890,9 +5890,9 @@
     (pin "1" (uuid a55214db-f7ef-4bd4-bf2f-651fb506d414))
     (pin "2" (uuid 870f47ee-6d86-4089-9c52-339ecbf75e56))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R1") (unit 1)
+          (reference "R61") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5920,7 +5920,7 @@
     )
     (pin "1" (uuid 455c103c-a647-4243-a1bc-96925ef88ab2))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR025") (unit 1)
         )
@@ -5941,7 +5941,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 213.36 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54d9d9fd-69e0-4f1b-8421-99303f047907)
-    (property "Reference" "R23" (at 116.9667 212.3693 0)
+    (property "Reference" "R3" (at 116.9667 212.3693 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 215.138 0)
@@ -5959,9 +5959,9 @@
     (pin "1" (uuid ca8679f8-9c30-4997-a6d2-cb7aa080b83f))
     (pin "2" (uuid 01c39fc5-908f-4ea2-b083-38cdf37152f6))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R23") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -5989,7 +5989,7 @@
     )
     (pin "1" (uuid 0993e6b6-d9ac-42ad-bb6a-e353ab136015))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR027") (unit 1)
         )
@@ -6019,7 +6019,7 @@
     )
     (pin "1" (uuid be1e3f6e-59db-4f8f-b4a6-9e3747ec8055))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR012") (unit 1)
         )
@@ -6054,7 +6054,7 @@
     )
     (pin "1" (uuid 1155dcc9-83a0-4e96-9658-84cec5a6a740))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR08") (unit 1)
         )
@@ -6075,7 +6075,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 182.88 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a81a40e-9ece-4645-a258-ab34eac7ddc0)
-    (property "Reference" "R14" (at 116.9667 181.8893 0)
+    (property "Reference" "R9" (at 116.9667 181.8893 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 184.658 0)
@@ -6093,9 +6093,9 @@
     (pin "1" (uuid b3e1654b-98d0-4a7b-aa5b-5f9187d846e1))
     (pin "2" (uuid 7921e993-5153-468c-affc-2481c2717a67))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R14") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6123,7 +6123,7 @@
     )
     (pin "1" (uuid 0dbdf59d-01f5-42c5-b51c-b0f7ddb4bcdc))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P3") (unit 1)
         )
@@ -6158,7 +6158,7 @@
     )
     (pin "1" (uuid 7965042b-df6b-42f9-8e97-848509df9986))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR026") (unit 1)
         )
@@ -6202,7 +6202,7 @@
     (pin "8" (uuid ea41f7ea-0554-4bf2-bd13-74696e92e76c))
     (pin "9" (uuid c5d31ee1-2912-4ada-9a65-af298c6ed7fd))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G4") (unit 1)
         )
@@ -6241,7 +6241,7 @@
     (pin "8" (uuid f49800ab-a422-4399-9909-119dbe63ff96))
     (pin "9" (uuid 7b594b68-6978-4f28-a6be-02d90496a29e))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G5") (unit 1)
         )
@@ -6257,7 +6257,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 127 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 710921f3-655b-445d-8d8b-97bb1238111b)
-    (property "Reference" "R3" (at 117.1439 126.0285 0)
+    (property "Reference" "R58" (at 117.1439 126.0285 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 128.778 0)
@@ -6275,9 +6275,9 @@
     (pin "1" (uuid f74312ea-083d-4aad-bc77-b2addb109d96))
     (pin "2" (uuid 71b50c39-4202-42f1-b28f-163cb800bf8b))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R3") (unit 1)
+          (reference "R58") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6291,7 +6291,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 139.7 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 716d5f07-889b-4f28-b7c8-d776d412aff4)
-    (property "Reference" "R6" (at 117.1439 138.7285 0)
+    (property "Reference" "R43" (at 117.1439 138.7285 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 141.478 0)
@@ -6309,9 +6309,9 @@
     (pin "1" (uuid 428353c0-18ca-477c-a2b2-e7789450589d))
     (pin "2" (uuid 1b7ace43-ffd3-42be-8691-82ebd67486f8))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R6") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6325,7 +6325,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 123.19 247.65 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7573ee3f-47ab-42dc-8f9d-e44d7eabdcb4)
-    (property "Reference" "R11" (at 118.11 246.38 0)
+    (property "Reference" "R68" (at 118.11 246.38 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 123.19 249.428 0)
@@ -6343,9 +6343,9 @@
     (pin "1" (uuid 4ae0c316-ea73-4eaa-8ef9-f16ef8d189a1))
     (pin "2" (uuid 3ed3465b-401c-4c7e-8850-960dc8784f01))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R11") (unit 1)
+          (reference "R68") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6359,7 +6359,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 114.3 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76735aba-b211-4eae-a76c-de850950404d)
-    (property "Reference" "R2" (at 117.1439 113.3285 0)
+    (property "Reference" "R48" (at 117.1439 113.3285 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 116.078 0)
@@ -6377,9 +6377,9 @@
     (pin "1" (uuid 681c5c9b-e877-4510-be6d-42d0961f5601))
     (pin "2" (uuid cbcfdbf2-c8af-4c89-854e-3d26f818b0f9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R2") (unit 1)
+          (reference "R48") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6416,7 +6416,7 @@
     (pin "8" (uuid e300fca3-ad5a-469f-9add-f86de6db64cd))
     (pin "9" (uuid 3e037e9c-424d-40c7-9d9d-f39a3db81eb9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G2") (unit 1)
         )
@@ -6432,7 +6432,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 132.08 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78f62525-202d-4ed8-91aa-8dc8c5e88cb6)
-    (property "Reference" "R5" (at 117.1439 131.1085 0)
+    (property "Reference" "R57" (at 117.1439 131.1085 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 133.858 0)
@@ -6450,9 +6450,9 @@
     (pin "1" (uuid 01741faa-77c3-4b27-9ffa-c671419c5e0b))
     (pin "2" (uuid eb1bf5f3-9643-45c5-a293-d0629adcc0e7))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R5") (unit 1)
+          (reference "R57") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6480,7 +6480,7 @@
     )
     (pin "1" (uuid ed2ea7b1-7972-4df6-9112-2bac3eb6a2be))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P55") (unit 1)
         )
@@ -6510,7 +6510,7 @@
     )
     (pin "1" (uuid 67a06623-2865-4e6a-adc2-2b7dc7f378eb))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P11") (unit 1)
         )
@@ -6620,7 +6620,7 @@
     (pin "C8" (uuid 567130e9-c18e-45d6-93b7-5763f776043e))
     (pin "C9" (uuid 893c73c8-53b4-4d2c-aad7-e8903f425695))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "M1") (unit 1)
         )
@@ -6655,7 +6655,7 @@
     )
     (pin "1" (uuid c26df36f-8248-4847-9286-e43b35609ba0))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR029") (unit 1)
         )
@@ -6765,7 +6765,7 @@
     (pin "75" (uuid 80ff5589-03bc-4a58-9a42-f021bcfe9dcc))
     (pin "76" (uuid dd80d875-b427-4f50-850f-91d596cbf38e))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P1") (unit 4)
         )
@@ -6795,7 +6795,7 @@
     )
     (pin "1" (uuid 17a0c7a5-319f-4f83-8533-622f178e64c8))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR023") (unit 1)
         )
@@ -6816,7 +6816,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 123.19 245.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b07a76c-acd6-43fd-bbf4-b09595a9c381)
-    (property "Reference" "R10" (at 118.11 243.84 0)
+    (property "Reference" "R74" (at 118.11 243.84 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 123.19 246.888 0)
@@ -6834,9 +6834,9 @@
     (pin "1" (uuid 0ea7ae91-9952-4ada-9bff-7e93514214f9))
     (pin "2" (uuid c22e8923-3b0a-4d9f-ac91-e069690ecb56))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R10") (unit 1)
+          (reference "R74") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6864,7 +6864,7 @@
     )
     (pin "1" (uuid 1e1c56f6-daf6-40e7-a20e-9ab63a4463b7))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P60") (unit 1)
         )
@@ -6880,7 +6880,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 149.86 116.84 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9df82487-ccde-4199-aaa1-78c848860ea3)
-    (property "Reference" "R28" (at 145.0839 115.8685 0)
+    (property "Reference" "R46_61" (at 145.0839 115.8685 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 149.86 118.618 0)
@@ -6898,9 +6898,9 @@
     (pin "1" (uuid cae2711b-d423-4b1a-b1de-445d62482790))
     (pin "2" (uuid 3a797922-d591-4b94-ad41-8d7ef6f382b0))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R28") (unit 1)
+          (reference "R46_61") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6928,7 +6928,7 @@
     )
     (pin "1" (uuid 476ecfae-88ac-44f2-8db4-0083c2f4e5ae))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR04") (unit 1)
         )
@@ -6949,7 +6949,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 99.06 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5b55af9-2902-4504-9908-15e382bd0b87)
-    (property "Reference" "R31" (at 116.8234 98.1046 0)
+    (property "Reference" "R51" (at 116.8234 98.1046 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 100.838 0)
@@ -6967,9 +6967,9 @@
     (pin "1" (uuid 2c404e4c-2dc6-47eb-8216-18b4faf00613))
     (pin "2" (uuid 1822d1e3-0a42-4534-ac28-d2618ec39b64))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R31") (unit 1)
+          (reference "R51") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -6997,7 +6997,7 @@
     )
     (pin "1" (uuid f19fdc93-a6c2-47c7-873a-909071ca0e59))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR07") (unit 1)
         )
@@ -7032,7 +7032,7 @@
     )
     (pin "1" (uuid 2dcd9346-3473-46d6-94ea-f98d0e5d1829))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR09") (unit 1)
         )
@@ -7071,7 +7071,7 @@
     (pin "1" (uuid 7b487fe6-bc24-41de-87d6-5eaadb61c646))
     (pin "2" (uuid d7529725-4b4a-4131-89d9-60e6f349fdc4))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "F32") (unit 1)
         )
@@ -7101,7 +7101,7 @@
     )
     (pin "1" (uuid 8b68d158-2364-4f2f-975e-79af4295301c))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P4") (unit 1)
         )
@@ -7141,7 +7141,7 @@
     (pin "2" (uuid 6fe0f19d-70b1-4b51-8f7d-5a996d476db5))
     (pin "3" (uuid 8de43ada-0559-4918-b191-ce573c23537d))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "Q1") (unit 1)
         )
@@ -7171,7 +7171,7 @@
     )
     (pin "1" (uuid 11fe6ee7-5e2c-40ec-ac4c-5e509cf35141))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P9") (unit 1)
         )
@@ -7206,7 +7206,7 @@
     )
     (pin "1" (uuid 1823eae8-aec3-4316-8fd2-bffd8e098205))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_D5") (unit 1)
         )
@@ -7222,7 +7222,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 215.9 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c14cd52f-39c9-4289-ba5b-fe5c5b6d0f08)
-    (property "Reference" "R24" (at 116.9667 214.9093 0)
+    (property "Reference" "R13" (at 116.9667 214.9093 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 217.678 0)
@@ -7240,9 +7240,9 @@
     (pin "1" (uuid ad6dab29-26e0-4ea2-bf7f-020b0b51e6b2))
     (pin "2" (uuid 20229cf3-847f-489f-939c-3c055c784908))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R24") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -7270,7 +7270,7 @@
     )
     (pin "1" (uuid 9b59c55a-de4e-4ef5-be21-3f8dc22a5731))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_C10") (unit 1)
         )
@@ -7300,7 +7300,7 @@
     )
     (pin "1" (uuid 4b9abfd3-2fa4-492f-861e-6b339bda73f9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P_C13") (unit 1)
         )
@@ -7339,7 +7339,7 @@
     (pin "8" (uuid 1daf34f4-9ce4-4764-86cb-3b66943abd83))
     (pin "9" (uuid 1b6d4cea-8b94-42fd-95b7-da8e3e30b230))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "G6") (unit 1)
         )
@@ -7355,7 +7355,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 134.62 104.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cda3b985-0803-406b-9a83-5b657cd71cf5)
-    (property "Reference" "R34" (at 137.16 101.6 0)
+    (property "Reference" "R49_51" (at 137.16 101.6 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 136.398 104.14 0)
@@ -7373,9 +7373,9 @@
     (pin "1" (uuid fd7cae7d-11f3-4356-b8c6-dc22df54aa25))
     (pin "2" (uuid 8e5e28f4-593f-40fc-814b-0dc40e7085ec))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R34") (unit 1)
+          (reference "R49_51") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -7389,7 +7389,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 170.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf20a4e6-911e-4a09-a835-2371a9f16319)
-    (property "Reference" "R12" (at 116.9667 169.1893 0)
+    (property "Reference" "R22" (at 116.9667 169.1893 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 171.958 0)
@@ -7407,9 +7407,9 @@
     (pin "1" (uuid 341516be-7afa-42f5-8272-2d6183a3ff48))
     (pin "2" (uuid f9d77d7e-1bae-446d-8954-eb1f65d65fe9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R12") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -7437,7 +7437,7 @@
     )
     (pin "1" (uuid daf537d5-70ec-4862-ad20-21f7303864c7))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR020") (unit 1)
         )
@@ -7458,7 +7458,7 @@
   (symbol (lib_id "hellen-one-common:Fuse-Pad-Pad") (at 121.92 220.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d497f51f-e377-40af-911d-00c21a2f43cc)
-    (property "Reference" "F2" (at 116.84 219.8948 0)
+    (property "Reference" "F12" (at 116.84 219.8948 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Fuse-Pad-Pad" (at 121.92 222.758 0)
@@ -7476,9 +7476,9 @@
     (pin "1" (uuid 1a7f3ee8-80bf-4393-84d1-3d47a1df72fa))
     (pin "2" (uuid dc2f3b59-c553-41d0-a0ba-e9b4f1950639))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "F2") (unit 1)
+          (reference "F12") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -7506,7 +7506,7 @@
     )
     (pin "1" (uuid 80170e3a-e870-442d-b1da-a93d3722552e))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P5") (unit 1)
         )
@@ -7536,7 +7536,7 @@
     )
     (pin "1" (uuid 330455c4-5956-46a3-bee0-bd55cf9f2d55))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P7") (unit 1)
         )
@@ -7571,7 +7571,7 @@
     )
     (pin "1" (uuid 3a34ffbc-3370-44b1-8f5c-c0fd517259a5))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR01") (unit 1)
         )
@@ -7592,7 +7592,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 129.54 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e84bd14a-0dac-4eb7-bf00-3270e32cadda)
-    (property "Reference" "R4" (at 117.1439 128.5685 0)
+    (property "Reference" "R45" (at 117.1439 128.5685 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 131.318 0)
@@ -7610,9 +7610,9 @@
     (pin "1" (uuid e6c7751b-afbb-49e3-a8e4-ec4d26f3f04a))
     (pin "2" (uuid 991fd2b1-4b15-42e8-bd18-bd61f255339a))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R4") (unit 1)
+          (reference "R45") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -7640,7 +7640,7 @@
     )
     (pin "1" (uuid 229ef691-3922-4bb9-9329-5c33872940f8))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P56") (unit 1)
         )
@@ -7670,7 +7670,7 @@
     )
     (pin "1" (uuid ce7cff18-b7f2-4d8e-8970-f8d98d06728e))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P63") (unit 1)
         )
@@ -7775,7 +7775,7 @@
     (pin "75" (uuid 417ba9b4-87ae-41bb-975e-b9eedeb1493e))
     (pin "76" (uuid 5d50019d-3465-4d1f-98b3-43ad6b1b1e0b))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P1") (unit 2)
         )
@@ -7805,7 +7805,7 @@
     )
     (pin "1" (uuid 7c472c87-fb07-49bb-b098-a06f71a67cbf))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P12") (unit 1)
         )
@@ -7835,7 +7835,7 @@
     )
     (pin "1" (uuid 9245a4d2-b669-44ca-abb3-c7081426afab))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P21") (unit 1)
         )
@@ -7865,7 +7865,7 @@
     )
     (pin "1" (uuid cb41d1fe-c5bd-4e94-9b02-e97910b33464))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P2") (unit 1)
         )
@@ -7895,7 +7895,7 @@
     )
     (pin "1" (uuid 6b2fe38d-c345-411f-84a8-fc131bc743c4))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR015") (unit 1)
         )
@@ -8005,7 +8005,7 @@
     (pin "75" (uuid f609cbc9-6584-4079-adea-fabaee06e0f5))
     (pin "76" (uuid 5d227d45-a4d4-49a5-9ae4-9670fdca57d0))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P1") (unit 1)
         )
@@ -8021,7 +8021,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 121.92 147.32 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f5e05880-aa33-4b14-ab28-d99a4f6e4aef)
-    (property "Reference" "R7" (at 117.1439 146.3485 0)
+    (property "Reference" "R54" (at 117.1439 146.3485 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 121.92 149.098 0)
@@ -8039,9 +8039,9 @@
     (pin "1" (uuid 79a4758d-a809-4dd0-bdc7-b39eda414d28))
     (pin "2" (uuid e4761ba9-83fa-4498-a759-021a847ac3da))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R7") (unit 1)
+          (reference "R54") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
@@ -8069,7 +8069,7 @@
     )
     (pin "1" (uuid 5d5acdc1-6c8d-4269-b3a9-e421591c3a10))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR05") (unit 1)
         )
@@ -8113,7 +8113,7 @@
           (reference "C17") (unit 1)
         )
       )
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "C1") (unit 1)
         )
@@ -8151,7 +8151,7 @@
     )
     (pin "1" (uuid 2a6d79d9-b1c2-4e01-b1b4-a56ee179711a))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "P19") (unit 1)
         )
@@ -8181,7 +8181,7 @@
     )
     (pin "1" (uuid 0ddb928b-3b8f-4b54-a7f6-296cc5d6dfb9))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR037") (unit 1)
         )
@@ -8211,7 +8211,7 @@
     )
     (pin "1" (uuid c2ddd26f-8fc7-4c2a-86e6-fff986d6b9dd))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
           (reference "#PWR013") (unit 1)
         )
@@ -8232,7 +8232,7 @@
   (symbol (lib_id "hellen-one-common:Jumper-Pad-Pad") (at 129.54 101.6 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff9db47a-1b46-4db9-b4fb-fbdddcb6470f)
-    (property "Reference" "R33" (at 127 101.6 0)
+    (property "Reference" "R62_64" (at 127 101.6 0)
       (effects (font (size 1.016 1.016)))
     )
     (property "Value" "Jumper-Pad-Pad" (at 131.318 101.6 0)
@@ -8250,9 +8250,9 @@
     (pin "1" (uuid 7901c387-88f1-434e-a243-89dca0975c2b))
     (pin "2" (uuid 4356e3b8-a586-43fb-b4d2-85dbdfc4811d))
     (instances
-      (project "uaefi-adapter-NA6"
+      (project "uaefi-adapter-NA-90-95"
         (path "/62be380c-4f45-483a-9614-39f0039d587a"
-          (reference "R33") (unit 1)
+          (reference "R62_64") (unit 1)
         )
       )
       (project "hellen64_NA6_94"
