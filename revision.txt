@@ -1,7 +1,7 @@
 # make sure to increment revision BEFORE any changes to content
 
 BOARD_PREFIX=uaefi-adapter-
-BOARD_SUFFIX=NA6
+BOARD_SUFFIX=NA-90-95
 BOARD_REVISION=a
 
 # does not affect fab files, only needed to have nice rendered preview
