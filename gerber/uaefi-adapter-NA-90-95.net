@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/runner/work/uaefi-NA6-adapter/uaefi-NA6-adapter/uaefi-adapter-NA-90-95.kicad_sch</source>
+    <date>Tue Mar 12 19:35:52 2024</date>
+    <tool>Eeschema 7.0.11-7.0.11~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>uaefi-adapter-NA-90-95.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>hellen-one-common:C0603</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fae2aef1-daa0-428d-a036-81f0eb57c180</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>B5819W</value>
+      <footprint>hellen-one-common:SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C8598</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
+      <property name="LCSC" value="C8598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20bf0a4e-ac50-469a-b1a1-002afe88bf62</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>PSM712-LF</value>
+      <footprint>hellen-one-common:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C32677</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="PSM712" description="19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS"/>
+      <property name="LCSC" value="C32677"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS"/>
+      <property name="ki_keywords" value="TVS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c1c9efe-93b0-4bcf-83fb-f971099125ac</tstamps>
+    </comp>
+    <comp ref="F12">
+      <value>Fuse-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="12H1500D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d497f51f-e377-40af-911d-00c21a2f43cc</tstamps>
+    </comp>
+    <comp ref="F32">
+      <value>Fuse-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="12H1500D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7d5b2db-01fb-4276-b0c1-58ca3adc90e5</tstamps>
+    </comp>
+    <comp ref="G8">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7061434-d598-405c-bbe8-7a4b48818187</tstamps>
+    </comp>
+    <comp ref="G9">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebbde5d3-e4a6-43f4-a76d-43e141039266</tstamps>
+    </comp>
+    <comp ref="G10">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718064c7-2b1d-4973-b4e9-0121f6f4b06a</tstamps>
+    </comp>
+    <comp ref="G11">
+      <value>PROTO_AREA</value>
+      <footprint>hellen-one-common:PROTO_AREA</footprint>
+      <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79d8cdd8-42ff-4946-8683-583ee51c5a33</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>43045-0612</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical</footprint>
+      <fields>
+        <field name="MyComment">DNP</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Top_Bottom" description="Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value=""/>
+      <property name="MyComment" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46b38ca4-3a84-4f46-adbf-d0f25983ef22</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>43045-0412</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Top_Bottom" description="Generic connector, double row, 02x02, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x02, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a398e4b8-beab-473c-aeb3-0f61bab65b68</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>43045-0212</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0212_2x01_P3.00mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C293362</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x01" description="Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C293362"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0867bf2a-2f2c-47e7-b10d-c47b2e45b4ae</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Module:uaefi/0.2</value>
+      <footprint>hellen-one-uaefi-0.2:uaefi</footprint>
+      <libsource lib="hellen-one-uaefi-0.2" part="Module-uaefi-0.2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87df7ccd-bb8a-40a1-a0db-b99d252a63ba</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>178780-1</value>
+      <footprint>178780-1:178780-1_OBD1</footprint>
+      <libsource lib="178780-1" part="178780-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f003cf8e-a566-4e5e-93c8-1216be3a8c7a 89711da6-74b6-411e-b4f9-27b3f620e288 f4803f42-1107-4741-8ff1-7baa4276587d 370c9789-f030-4f6e-888b-ab57dc1f0955</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f163d1c6-197d-44f1-8957-dc372331059d</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>Pad</value>
+      <footprint>kicad6-libraries:PAD-TH</footprint>
+      <libsource lib="misc" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61af0373-2b0c-42d4-b778-50f9b552297a</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>Pad</value>
+      <footprint>kicad6-libraries:PAD-TH</footprint>
+      <libsource lib="misc" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7d85e50-5c3e-48eb-94f8-0e3e414061c1</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6fad9cc-e663-40a6-8a5c-b2ee5acd2485</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c3cdb8a-e0dc-48ee-878c-2e2afa993e72</tstamps>
+    </comp>
+    <comp ref="P7">
+      <value>Pad</value>
+      <footprint>kicad6-libraries:PAD-TH</footprint>
+      <libsource lib="misc" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3062ef6-01f9-4d9e-953c-6ce1d0506fbd</tstamps>
+    </comp>
+    <comp ref="P8">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03199221-683a-4717-a0ed-11f6b010971b</tstamps>
+    </comp>
+    <comp ref="P9">
+      <value>Pad</value>
+      <footprint>kicad6-libraries:PAD-TH</footprint>
+      <libsource lib="misc" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac203acb-9151-48dd-94c8-d6ab24a4705c</tstamps>
+    </comp>
+    <comp ref="P10">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0be6ed33-95f1-4c2d-be76-384b685532bf</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83d44dc2-fcc6-40a1-91ec-792a11e80c81</tstamps>
+    </comp>
+    <comp ref="P12">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0a23f96-edd2-4da0-b160-0c5992fa3ef0</tstamps>
+    </comp>
+    <comp ref="P19">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcbf4be6-42ec-48fc-833e-8d8c467cfe1c</tstamps>
+    </comp>
+    <comp ref="P21">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f12d2e4d-6cd0-4997-9d44-d73bbb169eff</tstamps>
+    </comp>
+    <comp ref="P55">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e590381-d03e-486a-b249-9aca53e1d7cd</tstamps>
+    </comp>
+    <comp ref="P56">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edb7f00e-f701-400b-9a69-d7bb37f23dde</tstamps>
+    </comp>
+    <comp ref="P60">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>942565b7-e3d9-4d31-9da5-7fa99fe06aab</tstamps>
+    </comp>
+    <comp ref="P63">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee78dccc-9a6c-4a3c-94b5-d060476ea72b</tstamps>
+    </comp>
+    <comp ref="P_C11">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ac65e02-aabd-4991-a054-b04589730bd3</tstamps>
+    </comp>
+    <comp ref="P_C12">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dfd17ed-611b-4ed8-875e-d8183dfab4fa</tstamps>
+    </comp>
+    <comp ref="P_C13">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c793edcc-c521-4381-98d6-4ee138c9c0ba</tstamps>
+    </comp>
+    <comp ref="P_D5">
+      <value>Pad</value>
+      <footprint>hellen-one-common:PAD-TH</footprint>
+      <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeef08ef-a5b4-4724-b1b9-134d1ff3f551</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>ZXMS6005SGTA</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <fields>
+        <field name="LCSC">C174042</field>
+      </fields>
+      <libsource lib="Power_Management" part="AUIPS2041L" description="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
+      <property name="LCSC" value="C174042"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Intelligent Power Low Side Switch, 68V, 5A, SOT-223"/>
+      <property name="ki_keywords" value="low side switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8fc1efa-139f-4961-adff-87bfda5f252d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>750</value>
+      <footprint>hellen-one-common:R0805</footprint>
+      <fields>
+        <field name="LCSC">C17818</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C17818"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af9917a-d220-4526-b0e6-03e7eafa540d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54d9d9fd-69e0-4f1b-8421-99303f047907</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b83e4d8-0dbf-4dbb-8ee9-788bba257de7</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0624f3ae-da1f-4bec-b1df-eb01a3e97502</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a81a40e-9ece-4645-a258-ab34eac7ddc0</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c14cd52f-39c9-4289-ba5b-fe5c5b6d0f08</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c702492-80fe-48e6-b52d-56c9d0bbf792</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d2fdcfd-aff4-4866-9fbd-67627641b53c</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42ace0bc-685b-4967-a1ae-09ed5f0ea8d4</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc19c42-bf82-4c69-8e88-be461c1efbb9</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18162c5f-594b-4ae5-ac97-c36390455591</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="MyCommnet">DNP</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="MyCommnet" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04517917-892a-4093-bf5b-a6cabda1f922</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf20a4e6-911e-4a09-a835-2371a9f16319</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>220</value>
+      <footprint>hellen-one-common:R0805</footprint>
+      <fields>
+        <field name="LCSC">C17557</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
+      <property name="LCSC" value="C17557"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19d9c527-40a7-4c19-b163-a1b6b7f26c39</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>716d5f07-889b-4f28-b7c8-d776d412aff4</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e84bd14a-0dac-4eb7-bf00-3270e32cadda</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="MyCommnet">DNP</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="MyCommnet" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1576719e-2ffc-4dcd-b566-947f15fc4e85</tstamps>
+    </comp>
+    <comp ref="R46_61">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9df82487-ccde-4199-aaa1-78c848860ea3</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76735aba-b211-4eae-a76c-de850950404d</tstamps>
+    </comp>
+    <comp ref="R49_51">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="MyCommnet">DNP</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="MyCommnet" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cda3b985-0803-406b-9a83-5b657cd71cf5</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b55af9-2902-4504-9908-15e382bd0b87</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5e05880-aa33-4b14-ab28-d99a4f6e4aef</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="MyCommnet">DNP</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="MyCommnet" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78f62525-202d-4ed8-91aa-8dc8c5e88cb6</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>710921f3-655b-445d-8d8b-97bb1238111b</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>518be479-2de6-411d-90e4-f2c000f5c568</tstamps>
+    </comp>
+    <comp ref="R62_64">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="MyCommnet">DNP</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="MyCommnet" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff9db47a-1b46-4db9-b4fb-fbdddcb6470f</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ebf374a-4768-4841-ba63-a1f9a8a6215a</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7573ee3f-47ab-42dc-8f9d-e44d7eabdcb4</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ff0abe7-24f5-496c-b134-3d780c7e11d7</tstamps>
+    </comp>
+    <comp ref="R74">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b07a76c-acd6-43fd-bbf4-b09595a9c381</tstamps>
+    </comp>
+    <comp ref="R75">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC"> C17477</field>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value=" C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi-adapter-NA-90-95.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37c6a7bf-5c6e-4cff-bdfd-e8af7aa30276</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="178780-1" part="178780-1">
+      <footprints>
+        <fp>178780-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P2</field>
+        <field name="Value">178780-1</field>
+        <field name="Footprint">kicad6-libraries:178780-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="passive"/>
+        <pin num="2" name="1C" type="passive"/>
+        <pin num="3" name="1E" type="passive"/>
+        <pin num="4" name="1G" type="passive"/>
+        <pin num="5" name="1I" type="passive"/>
+        <pin num="6" name="1K" type="passive"/>
+        <pin num="7" name="1M" type="passive"/>
+        <pin num="8" name="1O" type="passive"/>
+        <pin num="9" name="1Q" type="passive"/>
+        <pin num="10" name="1S" type="passive"/>
+        <pin num="11" name="1U" type="passive"/>
+        <pin num="12" name="1B" type="passive"/>
+        <pin num="13" name="1D" type="passive"/>
+        <pin num="14" name="1F" type="passive"/>
+        <pin num="15" name="1H" type="passive"/>
+        <pin num="16" name="1J" type="passive"/>
+        <pin num="17" name="1L" type="passive"/>
+        <pin num="18" name="1N" type="passive"/>
+        <pin num="19" name="1P" type="passive"/>
+        <pin num="20" name="1R" type="passive"/>
+        <pin num="21" name="1T" type="passive"/>
+        <pin num="22" name="1V" type="passive"/>
+        <pin num="23" name="2A" type="passive"/>
+        <pin num="24" name="2C" type="passive"/>
+        <pin num="25" name="2E" type="passive"/>
+        <pin num="26" name="2G" type="passive"/>
+        <pin num="27" name="2I" type="passive"/>
+        <pin num="28" name="2K" type="passive"/>
+        <pin num="29" name="2M" type="passive"/>
+        <pin num="30" name="2O" type="passive"/>
+        <pin num="31" name="2B" type="passive"/>
+        <pin num="32" name="2D" type="passive"/>
+        <pin num="33" name="2F" type="passive"/>
+        <pin num="34" name="2H" type="passive"/>
+        <pin num="35" name="2J" type="passive"/>
+        <pin num="36" name="2L" type="passive"/>
+        <pin num="37" name="2N" type="passive"/>
+        <pin num="38" name="2P" type="passive"/>
+        <pin num="39" name="3A" type="passive"/>
+        <pin num="40" name="3C" type="passive"/>
+        <pin num="41" name="3E" type="passive"/>
+        <pin num="42" name="3G" type="passive"/>
+        <pin num="43" name="3I" type="passive"/>
+        <pin num="44" name="3K" type="passive"/>
+        <pin num="45" name="3M" type="passive"/>
+        <pin num="46" name="3O" type="passive"/>
+        <pin num="47" name="3Q" type="passive"/>
+        <pin num="48" name="3S" type="passive"/>
+        <pin num="49" name="3U" type="passive"/>
+        <pin num="50" name="3W" type="passive"/>
+        <pin num="51" name="3Y" type="passive"/>
+        <pin num="52" name="3B" type="passive"/>
+        <pin num="53" name="3D" type="passive"/>
+        <pin num="54" name="3F" type="passive"/>
+        <pin num="55" name="3H" type="passive"/>
+        <pin num="56" name="3J" type="passive"/>
+        <pin num="57" name="3L" type="passive"/>
+        <pin num="58" name="3N" type="passive"/>
+        <pin num="59" name="3P" type="passive"/>
+        <pin num="60" name="3R" type="passive"/>
+        <pin num="61" name="3T" type="passive"/>
+        <pin num="62" name="3V" type="passive"/>
+        <pin num="63" name="3X" type="passive"/>
+        <pin num="64" name="3Z" type="passive"/>
+        <pin num="65" name="4A" type="passive"/>
+        <pin num="66" name="4C" type="passive"/>
+        <pin num="67" name="4E" type="passive"/>
+        <pin num="68" name="4G" type="passive"/>
+        <pin num="69" name="4I" type="passive"/>
+        <pin num="70" name="4K" type="passive"/>
+        <pin num="71" name="4B" type="passive"/>
+        <pin num="72" name="4D" type="passive"/>
+        <pin num="73" name="4F" type="passive"/>
+        <pin num="74" name="4H" type="passive"/>
+        <pin num="75" name="4J" type="passive"/>
+        <pin num="76" name="4L" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x01">
+      <description>Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x02_Top_Bottom">
+      <description>Generic connector, double row, 02x02, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Top_Bottom</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Top_Bottom">
+      <description>Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Top_Bottom</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Management" part="AUIPS2041L">
+      <description>Intelligent Power Low Side Switch, 68V, 5A, SOT-223</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AUIPS2041L</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-AUIPS2041-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aae147a9d4c57</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="1N4148WS">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148WS</field>
+        <field name="Footprint">hellen-one-common:SOD-323</field>
+        <field name="LCSC">C2128</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Cap">
+      <description>Capacitor</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Cap</field>
+        <field name="Footprint">hellen-one-common:C0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Fuse-Pad-Pad">
+      <description>12H1500D</description>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Jumper-Pad-Pad">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Jumper-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="LCSC">C17477</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="PROTO_AREA">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">PROTO_AREA</field>
+        <field name="Footprint">hellen-one-common:PROTO_AREA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="PSM712">
+      <description>19V 13.3V 12V Bi-Directional SOT-23(SOT-23-3) TVS</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D?</field>
+        <field name="Value">PSM712</field>
+        <field name="Footprint">hellen-one-common:SOT-23</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf</field>
+        <field name="LCSC">C32677</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Pad">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-TH</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Res">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Res</field>
+        <field name="Footprint">hellen-one-common:R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-uaefi-0.2" part="Module-uaefi-0.2">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Module:uaefi/0.2</field>
+        <field name="Footprint">hellen-one-uaefi-0.2:uaefi</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="OUT_DC1-" type="passive"/>
+        <pin num="A2" name="OUT_DC2-" type="passive"/>
+        <pin num="A3" name="GND" type="passive"/>
+        <pin num="A4" name="GND" type="passive"/>
+        <pin num="A5" name="OUT_DC1+" type="passive"/>
+        <pin num="A6" name="OUT_DC2+" type="passive"/>
+        <pin num="A7" name="IN_VIGN" type="passive"/>
+        <pin num="A8" name="IN_V_MAIN" type="passive"/>
+        <pin num="B1" name="OUT_INJ6" type="passive"/>
+        <pin num="B2" name="OUT_INJ5" type="passive"/>
+        <pin num="B3" name="OUT_INJ4" type="passive"/>
+        <pin num="B4" name="OUT_INJ3" type="passive"/>
+        <pin num="B5" name="OUT_INJ2" type="passive"/>
+        <pin num="B6" name="OUT_INJ1" type="passive"/>
+        <pin num="B7" name="OUT_LS1" type="passive"/>
+        <pin num="B8" name="OUT_LS_HOT2" type="passive"/>
+        <pin num="B9" name="OUT_LS_HOT1" type="passive"/>
+        <pin num="B10" name="OUT_IGN6" type="passive"/>
+        <pin num="B11" name="OUT_IGN4" type="passive"/>
+        <pin num="B12" name="OUT_IGN3" type="passive"/>
+        <pin num="B13" name="OUT_IGN5" type="passive"/>
+        <pin num="B14" name="OUT_IGN2" type="passive"/>
+        <pin num="B15" name="OUT_IGN1" type="passive"/>
+        <pin num="B16" name="OUT_LS4" type="passive"/>
+        <pin num="B17" name="OUT_LS3" type="passive"/>
+        <pin num="B18" name="OUT_LS2" type="passive"/>
+        <pin num="C1" name="+5VP" type="passive"/>
+        <pin num="C2" name="+5VP" type="passive"/>
+        <pin num="C3" name="IN_AUX2" type="passive"/>
+        <pin num="C4" name="IN_PPS2" type="passive"/>
+        <pin num="C5" name="IN_HALL1" type="passive"/>
+        <pin num="C6" name="IN_HALL2" type="passive"/>
+        <pin num="C7" name="IN_HALL3" type="passive"/>
+        <pin num="C8" name="GND" type="passive"/>
+        <pin num="C9" name="IN_BUTTON3" type="passive"/>
+        <pin num="C10" name="EGT+" type="passive"/>
+        <pin num="C11" name="GNDA" type="passive"/>
+        <pin num="C12" name="GNDA" type="passive"/>
+        <pin num="C13" name="GNDA" type="passive"/>
+        <pin num="C14" name="IN_TPS2" type="passive"/>
+        <pin num="C15" name="IN_AUX3" type="passive"/>
+        <pin num="C16" name="VR_MAX9924+" type="passive"/>
+        <pin num="C17" name="VR_MAX9924-" type="passive"/>
+        <pin num="C18" name="VR_DISCRETE+" type="passive"/>
+        <pin num="C19" name="VR_DISCRETE-" type="passive"/>
+        <pin num="C20" name="EGT-" type="passive"/>
+        <pin num="D1" name="IN_AUX1" type="passive"/>
+        <pin num="D2" name="IN_BUTTON1" type="passive"/>
+        <pin num="D3" name="+5VP" type="passive"/>
+        <pin num="D4" name="+5VP" type="passive"/>
+        <pin num="D5" name="IN_FLEX" type="passive"/>
+        <pin num="D6" name="IN_PPS1" type="passive"/>
+        <pin num="D7" name="CAN+" type="passive"/>
+        <pin num="D8" name="CAN-" type="passive"/>
+        <pin num="D9" name="IN_MAP" type="passive"/>
+        <pin num="D10" name="IN_BUTTON2" type="passive"/>
+        <pin num="D11" name="GNDA" type="passive"/>
+        <pin num="D12" name="GNDA" type="passive"/>
+        <pin num="D13" name="IN_TPS1" type="passive"/>
+        <pin num="D14" name="IN_KNOCK_RAW" type="passive"/>
+        <pin num="D15" name="IN_IAT" type="passive"/>
+        <pin num="D16" name="IN_CLT" type="passive"/>
+        <pin num="E1" name="+12V_RAW" type="passive"/>
+        <pin num="E2" name="WBO_Rtrim" type="passive"/>
+        <pin num="E3" name="WBO_Heater" type="passive"/>
+        <pin num="E4" name="WBO_Un" type="passive"/>
+        <pin num="E5" name="WBO_Ip" type="passive"/>
+        <pin num="E6" name="WBO_Vm" type="passive"/>
+        <pin num="J1" name="VBUS" type="passive"/>
+        <pin num="J2" name="USB-" type="passive"/>
+        <pin num="J3" name="USB+" type="passive"/>
+        <pin num="J4" name="GND" type="passive"/>
+        <pin num="J5" name="GND" type="passive"/>
+        <pin num="P3" name="LED_YELLOW" type="passive"/>
+        <pin num="P4" name="LED_GREEN" type="passive"/>
+        <pin num="P7" name="Rx" type="passive"/>
+        <pin num="P8" name="Tx" type="passive"/>
+        <pin num="P15" name="DC1_DIR" type="passive"/>
+        <pin num="P16" name="DC2_DIR" type="passive"/>
+        <pin num="P17" name="DC1_PWM" type="passive"/>
+        <pin num="P18" name="DC2_PWM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="misc" part="Pad">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Pad</field>
+        <field name="Footprint">kicad6-libraries:PAD-TH</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="178780-1">
+      <uri>/home/runner/work/uaefi-NA6-adapter/uaefi-NA6-adapter/kicad6-libraries/178780-1.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-common">
+      <uri>/home/runner/work/uaefi-NA6-adapter/uaefi-NA6-adapter/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+    </library>
+    <library logical="hellen-one-uaefi-0.2">
+      <uri>/home/runner/work/uaefi-NA6-adapter/uaefi-NA6-adapter/hellen-one/modules/uaefi/0.2/uaefi.kicad_sym</uri>
+    </library>
+    <library logical="misc">
+      <uri>/home/runner/work/uaefi-NA6-adapter/uaefi-NA6-adapter/kicad6-libraries/misc.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5VP">
+      <node ref="G8" pin="13" pintype="passive"/>
+      <node ref="G8" pin="14" pintype="passive"/>
+      <node ref="G8" pin="3" pintype="passive"/>
+      <node ref="G8" pin="4" pintype="passive"/>
+      <node ref="G8" pin="8" pintype="passive"/>
+      <node ref="G8" pin="9" pintype="passive"/>
+      <node ref="M1" pin="C1" pinfunction="+5VP" pintype="passive"/>
+      <node ref="M1" pin="C2" pinfunction="+5VP" pintype="passive"/>
+      <node ref="P1" pin="31" pinfunction="2B" pintype="passive"/>
+      <node ref="P1" pin="44" pinfunction="3K" pintype="passive"/>
+      <node ref="P1" pin="70" pinfunction="4K" pintype="passive"/>
+      <node ref="P1" pin="76" pinfunction="4L" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/+12V_PERM">
+      <node ref="P1" pin="1" pinfunction="1A" pintype="passive"/>
+      <node ref="P12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/1B">
+      <node ref="F12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P1" pin="12" pinfunction="1B" pintype="passive"/>
+    </net>
+    <net code="4" name="/1C">
+      <node ref="P1" pin="2" pinfunction="1C" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="5" name="/1D">
+      <node ref="P1" pin="13" pinfunction="1D" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/1E">
+      <node ref="P1" pin="3" pinfunction="1E" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/1F">
+      <node ref="P1" pin="14" pinfunction="1F" pintype="passive"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/1G">
+      <node ref="P1" pin="4" pinfunction="1G" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/1H">
+      <node ref="P1" pin="15" pinfunction="1H" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/1J">
+      <node ref="P1" pin="16" pinfunction="1J" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/1L">
+      <node ref="P1" pin="17" pinfunction="1L" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/1M">
+      <node ref="P1" pin="7" pinfunction="1M" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/1N">
+      <node ref="P1" pin="18" pinfunction="1N" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/1O">
+      <node ref="P1" pin="8" pinfunction="1O" pintype="passive"/>
+      <node ref="P8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="15" name="/1P">
+      <node ref="P1" pin="19" pinfunction="1P" pintype="passive"/>
+      <node ref="P19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="16" name="/1Q">
+      <node ref="P1" pin="9" pinfunction="1Q" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="/1U">
+      <node ref="P1" pin="11" pinfunction="1U" pintype="passive"/>
+      <node ref="P11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="18" name="/1V">
+      <node ref="P1" pin="22" pinfunction="1V" pintype="passive"/>
+      <node ref="R22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="/2D">
+      <node ref="F32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P1" pin="32" pinfunction="2D" pintype="passive"/>
+    </net>
+    <net code="20" name="/3F">
+      <node ref="P1" pin="54" pinfunction="3F" pintype="passive"/>
+      <node ref="R54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="/3H">
+      <node ref="P1" pin="55" pinfunction="3H" pintype="passive"/>
+      <node ref="P55" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="22" name="/3I">
+      <node ref="P1" pin="43" pinfunction="3I" pintype="passive"/>
+      <node ref="R43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="/3J">
+      <node ref="P1" pin="56" pinfunction="3J" pintype="passive"/>
+      <node ref="P56" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="24" name="/3L">
+      <node ref="P1" pin="57" pinfunction="3L" pintype="passive"/>
+      <node ref="R57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/3M">
+      <node ref="P1" pin="45" pinfunction="3M" pintype="passive"/>
+      <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="/3N">
+      <node ref="P1" pin="58" pinfunction="3N" pintype="passive"/>
+      <node ref="R58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="/3O">
+      <node ref="P1" pin="46" pinfunction="3O" pintype="passive"/>
+      <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R46_61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="/3R">
+      <node ref="P1" pin="60" pinfunction="3R" pintype="passive"/>
+      <node ref="P60" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="29" name="/3S">
+      <node ref="P1" pin="48" pinfunction="3S" pintype="passive"/>
+      <node ref="R48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/3T">
+      <node ref="P1" pin="61" pinfunction="3T" pintype="passive"/>
+      <node ref="R61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="/3X">
+      <node ref="P1" pin="63" pinfunction="3X" pintype="passive"/>
+      <node ref="P63" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="32" name="/3Y">
+      <node ref="P1" pin="51" pinfunction="3Y" pintype="passive"/>
+      <node ref="R51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/3Z">
+      <node ref="P1" pin="64" pinfunction="3Z" pintype="passive"/>
+      <node ref="R64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="/12V_FROM_MAIN_RELAY">
+      <node ref="F12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="F32" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="G8" pin="10" pintype="passive"/>
+      <node ref="G8" pin="15" pintype="passive"/>
+      <node ref="G8" pin="5" pintype="passive"/>
+      <node ref="M1" pin="A7" pinfunction="IN_VIGN" pintype="passive"/>
+      <node ref="M1" pin="A8" pinfunction="IN_V_MAIN" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/CANH">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M1" pin="D7" pinfunction="CAN+" pintype="passive"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="/CANL">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M1" pin="D8" pinfunction="CAN-" pintype="passive"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="/EGT+">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="C10" pinfunction="EGT+" pintype="passive"/>
+    </net>
+    <net code="38" name="/EGT-">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M1" pin="C20" pinfunction="EGT-" pintype="passive"/>
+    </net>
+    <net code="39" name="/IN_AC_SW">
+      <node ref="M1" pin="C9" pinfunction="IN_BUTTON3" pintype="passive"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="/IN_CAM">
+      <node ref="M1" pin="C5" pinfunction="IN_HALL1" pintype="passive"/>
+      <node ref="P1" pin="42" pinfunction="3G" pintype="passive"/>
+    </net>
+    <net code="41" name="/IN_CLT">
+      <node ref="M1" pin="D16" pinfunction="IN_CLT" pintype="passive"/>
+      <node ref="P1" pin="47" pinfunction="3Q" pintype="passive"/>
+    </net>
+    <net code="42" name="/IN_CLUTCH">
+      <node ref="M1" pin="D10" pinfunction="IN_BUTTON2" pintype="passive"/>
+      <node ref="R22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="/IN_CRANK">
+      <node ref="M1" pin="C7" pinfunction="IN_HALL3" pintype="passive"/>
+      <node ref="P1" pin="41" pinfunction="3E" pintype="passive"/>
+    </net>
+    <net code="44" name="/IN_DIGITAL">
+      <node ref="M1" pin="D2" pinfunction="IN_BUTTON1" pintype="passive"/>
+      <node ref="P1" pin="36" pinfunction="2L" pintype="passive"/>
+    </net>
+    <net code="45" name="/IN_IAT">
+      <node ref="M1" pin="D15" pinfunction="IN_IAT" pintype="passive"/>
+      <node ref="P1" pin="59" pinfunction="3P" pintype="passive"/>
+    </net>
+    <net code="46" name="/IN_KNOCK_RAW">
+      <node ref="M1" pin="D14" pinfunction="IN_KNOCK_RAW" pintype="passive"/>
+      <node ref="P1" pin="38" pinfunction="2P" pintype="passive"/>
+    </net>
+    <net code="47" name="/IN_MAF">
+      <node ref="M1" pin="C3" pinfunction="IN_AUX2" pintype="passive"/>
+      <node ref="R46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="/IN_O2S">
+      <node ref="M1" pin="C15" pinfunction="IN_AUX3" pintype="passive"/>
+      <node ref="R58" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="/IN_PPS1">
+      <node ref="M1" pin="D6" pinfunction="IN_PPS1" pintype="passive"/>
+      <node ref="R69" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="/IN_PRESSURE">
+      <node ref="M1" pin="D9" pinfunction="IN_MAP" pintype="passive"/>
+      <node ref="P1" pin="29" pinfunction="2M" pintype="passive"/>
+    </net>
+    <net code="51" name="/IN_TEMP">
+      <node ref="M1" pin="D1" pinfunction="IN_AUX1" pintype="passive"/>
+      <node ref="P1" pin="37" pinfunction="2N" pintype="passive"/>
+    </net>
+    <net code="52" name="/IN_TEMP_OR_PPS2">
+      <node ref="M1" pin="C4" pinfunction="IN_PPS2" pintype="passive"/>
+      <node ref="R68" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="53" name="/IN_TPS1">
+      <node ref="M1" pin="D13" pinfunction="IN_TPS1" pintype="passive"/>
+      <node ref="R45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R75" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="/IN_TPS2">
+      <node ref="M1" pin="C14" pinfunction="IN_TPS2" pintype="passive"/>
+      <node ref="R74" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="/IN_VSS">
+      <node ref="M1" pin="C6" pinfunction="IN_HALL2" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="/OUT_AC_RELAY">
+      <node ref="M1" pin="B2" pinfunction="OUT_INJ5" pintype="passive"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="/OUT_BOOST_CONTROL">
+      <node ref="M1" pin="B17" pinfunction="OUT_LS3" pintype="passive"/>
+      <node ref="P1" pin="35" pinfunction="2J" pintype="passive"/>
+    </net>
+    <net code="58" name="/OUT_CHECK_ENGINE">
+      <node ref="M1" pin="B1" pinfunction="OUT_INJ6" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="/OUT_CONDENSER_FAN">
+      <node ref="M1" pin="B9" pinfunction="OUT_LS_HOT1" pintype="passive"/>
+      <node ref="R48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="/OUT_ETB+">
+      <node ref="M1" pin="A5" pinfunction="OUT_DC1+" pintype="passive"/>
+      <node ref="P1" pin="65" pinfunction="4A" pintype="passive"/>
+      <node ref="P1" pin="71" pinfunction="4B" pintype="passive"/>
+    </net>
+    <net code="61" name="/OUT_ETB-">
+      <node ref="M1" pin="A1" pinfunction="OUT_DC1-" pintype="passive"/>
+      <node ref="P1" pin="66" pinfunction="4C" pintype="passive"/>
+      <node ref="P1" pin="72" pinfunction="4D" pintype="passive"/>
+    </net>
+    <net code="62" name="/OUT_IDLE">
+      <node ref="M1" pin="B18" pinfunction="OUT_LS2" pintype="passive"/>
+      <node ref="P1" pin="50" pinfunction="3W" pintype="passive"/>
+    </net>
+    <net code="63" name="/OUT_IGN1">
+      <node ref="M1" pin="B15" pinfunction="OUT_IGN1" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="/OUT_IGN2">
+      <node ref="M1" pin="B14" pinfunction="OUT_IGN2" pintype="passive"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="/OUT_INJ1">
+      <node ref="M1" pin="B6" pinfunction="OUT_INJ1" pintype="passive"/>
+      <node ref="P1" pin="49" pinfunction="3U" pintype="passive"/>
+      <node ref="R49_51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="/OUT_INJ2">
+      <node ref="M1" pin="B5" pinfunction="OUT_INJ2" pintype="passive"/>
+      <node ref="P1" pin="62" pinfunction="3V" pintype="passive"/>
+      <node ref="R62_64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="/OUT_INJ3">
+      <node ref="M1" pin="B4" pinfunction="OUT_INJ3" pintype="passive"/>
+      <node ref="R49_51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R51" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="/OUT_INJ4">
+      <node ref="M1" pin="B3" pinfunction="OUT_INJ4" pintype="passive"/>
+      <node ref="R62_64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R64" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="/OUT_PUMP_RELAY">
+      <node ref="M1" pin="B16" pinfunction="OUT_LS4" pintype="passive"/>
+      <node ref="R46_61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R61" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="/OUT_RADIATOR_FAN_RELAY">
+      <node ref="M1" pin="B8" pinfunction="OUT_LS_HOT2" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="71" name="/OUT_TACH">
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="/OUT_VVT">
+      <node ref="M1" pin="B7" pinfunction="OUT_LS1" pintype="passive"/>
+      <node ref="P1" pin="27" pinfunction="2I" pintype="passive"/>
+    </net>
+    <net code="73" name="/TACH">
+      <node ref="M1" pin="B13" pinfunction="OUT_IGN5" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="74" name="/WBO_H-">
+      <node ref="M1" pin="E3" pinfunction="WBO_Heater" pintype="passive"/>
+      <node ref="P1" pin="24" pinfunction="2C" pintype="passive"/>
+    </net>
+    <net code="75" name="/WBO_Ip">
+      <node ref="M1" pin="E5" pinfunction="WBO_Ip" pintype="passive"/>
+      <node ref="P1" pin="33" pinfunction="2F" pintype="passive"/>
+    </net>
+    <net code="76" name="/WBO_R_Trim">
+      <node ref="M1" pin="E2" pinfunction="WBO_Rtrim" pintype="passive"/>
+      <node ref="P1" pin="25" pinfunction="2E" pintype="passive"/>
+    </net>
+    <net code="77" name="/WBO_Vs">
+      <node ref="M1" pin="E4" pinfunction="WBO_Un" pintype="passive"/>
+      <node ref="P1" pin="34" pinfunction="2H" pintype="passive"/>
+    </net>
+    <net code="78" name="/WBO_Vs{slash}Ip">
+      <node ref="M1" pin="E6" pinfunction="WBO_Vm" pintype="passive"/>
+      <node ref="P1" pin="26" pinfunction="2G" pintype="passive"/>
+    </net>
+    <net code="79" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="G8" pin="1" pintype="passive"/>
+      <node ref="G8" pin="11" pintype="passive"/>
+      <node ref="G8" pin="12" pintype="passive"/>
+      <node ref="G8" pin="2" pintype="passive"/>
+      <node ref="G8" pin="6" pintype="passive"/>
+      <node ref="G8" pin="7" pintype="passive"/>
+      <node ref="M1" pin="A3" pinfunction="GND" pintype="passive"/>
+      <node ref="M1" pin="A4" pinfunction="GND" pintype="passive"/>
+      <node ref="M1" pin="C8" pinfunction="GND" pintype="passive"/>
+      <node ref="M1" pin="J4" pinfunction="GND" pintype="passive"/>
+      <node ref="M1" pin="J5" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="23" pinfunction="2A" pintype="passive"/>
+      <node ref="P1" pin="28" pinfunction="2K" pintype="passive"/>
+      <node ref="P1" pin="30" pinfunction="2O" pintype="passive"/>
+      <node ref="P1" pin="39" pinfunction="3A" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="power_in"/>
+    </net>
+    <net code="80" name="GNDA">
+      <node ref="M1" pin="C11" pinfunction="GNDA" pintype="passive"/>
+      <node ref="M1" pin="C12" pinfunction="GNDA" pintype="passive"/>
+      <node ref="M1" pin="C13" pinfunction="GNDA" pintype="passive"/>
+      <node ref="P1" pin="40" pinfunction="3C" pintype="passive"/>
+      <node ref="P1" pin="52" pinfunction="3B" pintype="passive"/>
+      <node ref="P1" pin="53" pinfunction="3D" pintype="passive"/>
+      <node ref="P1" pin="67" pinfunction="4E" pintype="passive"/>
+      <node ref="P1" pin="73" pinfunction="4F" pintype="passive"/>
+      <node ref="P_C11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P_C12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P_C13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D1-A)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(J1-Pin_1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="P4" pinfunction="LED_GREEN" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(J1-Pin_2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M1" pin="P7" pinfunction="Rx" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(J1-Pin_4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M1" pin="P3" pinfunction="LED_YELLOW" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(J1-Pin_5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M1" pin="P8" pinfunction="Tx" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(J2-Pin_1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="M1" pin="C16" pinfunction="VR_MAX9924+" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="M1" pin="C18" pinfunction="VR_DISCRETE+" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(J2-Pin_3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="M1" pin="C17" pinfunction="VR_MAX9924-" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(J2-Pin_4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="M1" pin="C19" pinfunction="VR_DISCRETE-" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(M1-DC1_DIR)">
+      <node ref="M1" pin="P15" pinfunction="DC1_DIR" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(M1-DC1_PWM)">
+      <node ref="M1" pin="P17" pinfunction="DC1_PWM" pintype="passive"/>
+      <node ref="P4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(M1-DC2_DIR)">
+      <node ref="M1" pin="P16" pinfunction="DC2_DIR" pintype="passive"/>
+      <node ref="P7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(M1-DC2_PWM)">
+      <node ref="M1" pin="P18" pinfunction="DC2_PWM" pintype="passive"/>
+      <node ref="P9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(M1-IN_FLEX)">
+      <node ref="M1" pin="D5" pinfunction="IN_FLEX" pintype="passive"/>
+      <node ref="P_D5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(P1A-1I)">
+      <node ref="P1" pin="5" pinfunction="1I" pintype="passive"/>
+      <node ref="P5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(P1A-1K)">
+      <node ref="P1" pin="6" pinfunction="1K" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(P1A-1R)">
+      <node ref="P1" pin="20" pinfunction="1R" pintype="passive"/>
+      <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(P1A-1T)">
+      <node ref="P1" pin="21" pinfunction="1T" pintype="passive"/>
+      <node ref="P21" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(P1D-4G)">
+      <node ref="P1" pin="68" pinfunction="4G" pintype="passive"/>
+      <node ref="R68" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(P1D-4H)">
+      <node ref="P1" pin="74" pinfunction="4H" pintype="passive"/>
+      <node ref="R74" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(P1D-4I)">
+      <node ref="P1" pin="69" pinfunction="4I" pintype="passive"/>
+      <node ref="R69" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(P1D-4J)">
+      <node ref="P1" pin="75" pinfunction="4J" pintype="passive"/>
+      <node ref="R75" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(P10-Pin_1)">
+      <node ref="P1" pin="10" pinfunction="1S" pintype="passive"/>
+      <node ref="P10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="105" name="unconnected-(D2-Pad2)">
+      <node ref="D2" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(G9-Pad1)">
+      <node ref="G9" pin="1" pintype="passive"/>
+    </net>
+    <net code="107" name="unconnected-(G9-Pad2)">
+      <node ref="G9" pin="2" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(G9-Pad3)">
+      <node ref="G9" pin="3" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(G9-Pad4)">
+      <node ref="G9" pin="4" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(G9-Pad5)">
+      <node ref="G9" pin="5" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(G9-Pad6)">
+      <node ref="G9" pin="6" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(G9-Pad7)">
+      <node ref="G9" pin="7" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(G9-Pad8)">
+      <node ref="G9" pin="8" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(G9-Pad9)">
+      <node ref="G9" pin="9" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(G9-Pad10)">
+      <node ref="G9" pin="10" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(G9-Pad11)">
+      <node ref="G9" pin="11" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(G9-Pad12)">
+      <node ref="G9" pin="12" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(G9-Pad13)">
+      <node ref="G9" pin="13" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(G9-Pad14)">
+      <node ref="G9" pin="14" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(G9-Pad15)">
+      <node ref="G9" pin="15" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(G10-Pad1)">
+      <node ref="G10" pin="1" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(G10-Pad2)">
+      <node ref="G10" pin="2" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(G10-Pad3)">
+      <node ref="G10" pin="3" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(G10-Pad4)">
+      <node ref="G10" pin="4" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(G10-Pad5)">
+      <node ref="G10" pin="5" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(G10-Pad6)">
+      <node ref="G10" pin="6" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(G10-Pad7)">
+      <node ref="G10" pin="7" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(G10-Pad8)">
+      <node ref="G10" pin="8" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(G10-Pad9)">
+      <node ref="G10" pin="9" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(G10-Pad10)">
+      <node ref="G10" pin="10" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(G10-Pad11)">
+      <node ref="G10" pin="11" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(G10-Pad12)">
+      <node ref="G10" pin="12" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(G10-Pad13)">
+      <node ref="G10" pin="13" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(G10-Pad14)">
+      <node ref="G10" pin="14" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(G10-Pad15)">
+      <node ref="G10" pin="15" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(G11-Pad1)">
+      <node ref="G11" pin="1" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(G11-Pad2)">
+      <node ref="G11" pin="2" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(G11-Pad3)">
+      <node ref="G11" pin="3" pintype="passive"/>
+    </net>
+    <net code="139" name="unconnected-(G11-Pad4)">
+      <node ref="G11" pin="4" pintype="passive"/>
+    </net>
+    <net code="140" name="unconnected-(G11-Pad5)">
+      <node ref="G11" pin="5" pintype="passive"/>
+    </net>
+    <net code="141" name="unconnected-(G11-Pad6)">
+      <node ref="G11" pin="6" pintype="passive"/>
+    </net>
+    <net code="142" name="unconnected-(G11-Pad7)">
+      <node ref="G11" pin="7" pintype="passive"/>
+    </net>
+    <net code="143" name="unconnected-(G11-Pad8)">
+      <node ref="G11" pin="8" pintype="passive"/>
+    </net>
+    <net code="144" name="unconnected-(G11-Pad9)">
+      <node ref="G11" pin="9" pintype="passive"/>
+    </net>
+    <net code="145" name="unconnected-(G11-Pad10)">
+      <node ref="G11" pin="10" pintype="passive"/>
+    </net>
+    <net code="146" name="unconnected-(G11-Pad11)">
+      <node ref="G11" pin="11" pintype="passive"/>
+    </net>
+    <net code="147" name="unconnected-(G11-Pad12)">
+      <node ref="G11" pin="12" pintype="passive"/>
+    </net>
+    <net code="148" name="unconnected-(G11-Pad13)">
+      <node ref="G11" pin="13" pintype="passive"/>
+    </net>
+    <net code="149" name="unconnected-(G11-Pad14)">
+      <node ref="G11" pin="14" pintype="passive"/>
+    </net>
+    <net code="150" name="unconnected-(G11-Pad15)">
+      <node ref="G11" pin="15" pintype="passive"/>
+    </net>
+    <net code="151" name="unconnected-(M1-+5VP-PadD3)">
+      <node ref="M1" pin="D3" pinfunction="+5VP" pintype="passive+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(M1-+5VP-PadD4)">
+      <node ref="M1" pin="D4" pinfunction="+5VP" pintype="passive+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(M1-+12V_RAW-PadE1)">
+      <node ref="M1" pin="E1" pinfunction="+12V_RAW" pintype="passive+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(M1-GNDA-PadD11)">
+      <node ref="M1" pin="D11" pinfunction="GNDA" pintype="passive+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(M1-GNDA-PadD12)">
+      <node ref="M1" pin="D12" pinfunction="GNDA" pintype="passive+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(M1-OUT_DC2+-PadA6)">
+      <node ref="M1" pin="A6" pinfunction="OUT_DC2+" pintype="passive+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(M1-OUT_DC2--PadA2)">
+      <node ref="M1" pin="A2" pinfunction="OUT_DC2-" pintype="passive+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(M1-OUT_IGN3-PadB12)">
+      <node ref="M1" pin="B12" pinfunction="OUT_IGN3" pintype="passive+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(M1-OUT_IGN4-PadB11)">
+      <node ref="M1" pin="B11" pinfunction="OUT_IGN4" pintype="passive+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(M1-OUT_IGN6-PadB10)">
+      <node ref="M1" pin="B10" pinfunction="OUT_IGN6" pintype="passive+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(M1-USB+-PadJ3)">
+      <node ref="M1" pin="J3" pinfunction="USB+" pintype="passive+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(M1-USB--PadJ2)">
+      <node ref="M1" pin="J2" pinfunction="USB-" pintype="passive+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(M1-VBUS-PadJ1)">
+      <node ref="M1" pin="J1" pinfunction="VBUS" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
