@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1-8.0.1-1~ubuntu22.04.1"
+      "Version": "8.0.9-8.0.9-0~ubuntu24.04.1"
     },
-    "CreationDate": "2024-04-26T01:36:36+00:00"
+    "CreationDate": "2025-09-02T15:26:39+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "uaefi-adapter-NA-90-95",
       "GUID": "75616566-692d-4616-9461-707465722d4e",
-      "Revision": "rev?"
+      "Revision": "b"
     },
     "Size": {
       "X": 154.1,
@@ -28,8 +28,8 @@
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToRegion": 0.25,
+      "RegionToRegion": 0.25
     },
     {
       "Layers": "Inner",
@@ -37,8 +37,8 @@
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToRegion": 0.25,
+      "RegionToRegion": 0.25
     }
   ],
   "FilesAttributes": [
