@@ -3,7 +3,7 @@
 BOARD_PREFIX=uaefi-adapter-
 BOARD_SUFFIX=NA-90-95
 BOARD_REVISION=b
-BOARD_LAYERS=2
+BOARD_LAYERS=4
 
 # does not affect fab files, only needed to have nice rendered preview
 BOARD_PCB_OFFSET=0,0
