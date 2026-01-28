@@ -7,3 +7,7 @@
 To be used with https://github.com/rusefi/uaefi
 
 powerted by [rusEFI firmware](https://github.com/rusefi/rusefi)
+
+## fun fact
+
+See https://wiki.rusefi.com/Miata/#mazda-miata for (legacy?) open source Plug and plays
